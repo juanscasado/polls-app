@@ -1,0 +1,12 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+li a {
+  color:rgb(228, 13, 16);
+}
+
+body {
+  background: rgb(218, 182, 182) url("images/background.png") no-repeat;
+}
