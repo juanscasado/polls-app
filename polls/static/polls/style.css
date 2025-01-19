@@ -1,10 +1,9 @@
-* {
-  padding: 0px;
-  margin: 0px;
-}
 
 li a {
-  color:rgb(228, 13, 16);
+  color:rgb(243, 239, 239);
+
+  text-decoration: decimal;
+
 }
 
 body {
